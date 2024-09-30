@@ -1,4 +1,3 @@
-
 ArtVoice Tour: Virtual Art Museum with Image and Text-Based Art Retrieval
 Project Overview
 The ArtVoice Tour is an interactive Virtual Art Museum, where users can explore famous artworks by:
